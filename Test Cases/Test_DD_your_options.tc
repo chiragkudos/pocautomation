@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_DD_your_options</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9b50918-4b79-42e0-b11a-e050d0712d04</testCaseGuid>
+   <variable>
+      <defaultValue>'Your options'</defaultValue>
+      <description></description>
+      <id>dc518f48-552a-466d-b4af-09c413616b51</id>
+      <masked>false</masked>
+      <name>option</name>
+   </variable>
+</TestCaseEntity>

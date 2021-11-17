@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_DD_About_fine</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ca3a706-7063-486e-9c65-9a7ba32a941a</testCaseGuid>
+   <variable>
+      <defaultValue>'Your options'</defaultValue>
+      <description></description>
+      <id>36844ba4-e432-45ce-96ba-eea8072fccec</id>
+      <masked>false</masked>
+      <name>option</name>
+   </variable>
+</TestCaseEntity>
