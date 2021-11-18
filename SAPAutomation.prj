@@ -6,6 +6,7 @@
    <UUID>dbdcea49-ef39-4e3f-a983-df20449503f4</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\Genix\SapoliceAutomation\SAPAutomation\SAPAutomation.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
